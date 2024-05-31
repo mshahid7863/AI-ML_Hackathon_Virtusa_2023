@@ -1,6 +1,7 @@
 # TestAutomationCodeGen
 
-TestAutomationCodeGen is a Gen-AI powered application built to generate test automation code in any of the common tools available in the market - Selenium, Playwright, Cypress, Rest Assured in any of the programming languages - Java, Python, Javascrit. It is a tool to help beginners to create initial code for their automation efforts without much effort.
+TestAutomationCodeGen" is an innovative project leveraging Flask for API  and Streamlit frameworks for UI development. Powered by OpenAI API, it revolutionizes test automation by seamlessly generating code for popular tools like Selenium, Playwright, Cypress, and Rest Assured. This AI-driven application eliminates manual scripting, reducing the learning curve and effort for automation beginners. With a remarkable 50% reduction in script development time, TestAutomationCodeGen empowers novices to kickstart their automation journey effortlessly, irrespective of their programming language preference – be it Java, Python, or JavaScript
+
 
 ## Usage
 
@@ -22,10 +23,6 @@ User Steps:
 4. Click Generate
 Note - Please look into the video and the screenshots attached for your reference
 ```
+OutPut:
 
-## Contributing
 
-### Team 10 (Codekeepers of Mahishmati)
-Mohammed Shahid S \
-Boolavaram Swathi \
-Senthilkumar Kuppan
