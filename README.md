@@ -25,7 +25,11 @@ Note - Please look into the video and the screenshots attached for your referenc
 ```
 # OutPut:
 
-<img align="left" alt="coding" width="600"  src="https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/TestCodeGen-2.png" >  
+<img align="center" alt="coding" width="600"  src="https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/TestCodeGen-2.png" >  
+
+# Reward :
+
+<img align="center" alt="coding" width="600"  src="https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/1000109201-01.jpeg" >  
 
 
 
