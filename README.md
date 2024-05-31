@@ -23,8 +23,10 @@ User Steps:
 4. Click Generate
 Note - Please look into the video and the screenshots attached for your reference
 ```
-OutPut:
-https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/TestCodeGen-2.png
+# OutPut:
+
+<img align="left" alt="coding" width="600"  src="https://github.com/mshahid7863/AI-ML_Hackathon_Virtusa_2023/blob/main/TestCodeGen-2.png" >  
+
 
 
 
